@@ -1,4 +1,4 @@
-# diary_app
+Your Story app
 
 A new Flutter project.
 
